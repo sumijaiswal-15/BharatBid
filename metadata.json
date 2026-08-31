@@ -1,0 +1,6 @@
+{
+  "name": "BharatBid",
+  "description": "National AI-Powered Tender Verification & Procurement Decision Support Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
